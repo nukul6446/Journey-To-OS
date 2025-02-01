@@ -4,6 +4,9 @@ Welcome to **Journey-To-OS** – a project by **Bhopal DAO** designed for everyo
 
 ---
 
+<!-- Follow our organization and star the repo to boost its visibility! -->
+👉 **Follow [Bhopal DAO](https://github.com/Bhopal-DAO) on GitHub and ⭐️ this repository to help us grow!**
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
