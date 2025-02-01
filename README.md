@@ -1,4 +1,3 @@
-```markdown
 # Journey-To-OS: Your All-in-One Guide to Open Source & Web3 Development
 
 Welcome to **Journey-To-OS** – a project by **Bhopal DAO** designed for everyone who’s excited to learn, build, and contribute. Whether you’re using your very first laptop or you’re a self-taught coder, this guide will walk you through setting up your environment, understanding the basics of open source and Web3, and taking your very first steps into contributing to projects. Let’s break things down into simple, actionable steps so that nothing feels too intimidating!
@@ -10,10 +9,10 @@ Welcome to **Journey-To-OS** – a project by **Bhopal DAO** designed for everyo
 1. [Introduction](#introduction)
 2. [What You’ll Need](#what-youll-need)
 3. [Setting Up Your Development Environment](#setting-up-your-development-environment)
-   - [Installing Node.js](#installing-nodejs)
-   - [Installing Git](#installing-git)
-   - [Choosing a Code Editor](#choosing-a-code-editor)
-   - [Essential Terminal and Shell Tips](#essential-terminal-and-shell-tips)
+   - [1. Installing Node.js](#installing-nodejs)
+   - [2. Installing Git](#installing-git)
+   - [3. Choosing a Code Editor](#choosing-a-code-editor)
+   - [4. Essential Terminal and Shell Tips](#essential-terminal-and-shell-tips)
 4. [Open Source Fundamentals](#open-source-fundamentals)
    - [What is Open Source?](#what-is-open-source)
    - [Benefits of Open Source](#benefits-of-open-source)
@@ -141,7 +140,7 @@ For more details, visit [What is Open Source?](https://opensource.com/resources/
 - **Write Clear Commit Messages:**  
   Describe what changes you made and why.
 - **Follow the Project’s Guidelines:**  
-  Check the project’s `CONTRIBUTING.md` file for specific instructions.
+  Check the project’s CONTRIBUTING.md file for specific instructions.
 - **Stay Respectful:**  
   Remember that every contributor is learning and growing.
 - **Keep Communication Open:**  
@@ -154,7 +153,7 @@ For more details, visit [What is Open Source?](https://opensource.com/resources/
 ### Understanding Web3
 
 Web3 is the evolution of the internet—emphasizing decentralization, blockchain, and user empowerment. It’s not just about cryptocurrencies; it’s about building systems where control is shared among the community.  
-For a friendly introduction, see [CoinDesk’s guide to Web3](https://www.coindesk.com/learn/what-is-web3/).
+For a friendly introduction, see resources at [Bhopal DAO Notion Site](https://bhopaldao.notion.site).
 
 ### Web3 Tools & Platforms
 
@@ -231,7 +230,7 @@ We welcome every bit of help! Here’s how you can join in and make your first c
 
 ## Additional Learning Resources
 
-Here’s an extended list of resources to help you along your journey:
+Here’s a longer list of resources to help you along your journey:
 
 - **Node.js Documentation:**  
   [nodejs.org/en/docs](https://nodejs.org/en/docs)  
