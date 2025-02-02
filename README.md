@@ -220,6 +220,14 @@ We welcome every bit of help! Here’s how you can join in and make your first c
 3. **Submit Your Contribution:**  
    Follow the pull request process above to add your resume to the repository. This not only helps build your profile but also strengthens our community.
 
+4. We highly recommend using an ATS-friendly resume template to make sure your skills and experience shine through to potential employers. We've put together a live, customizable resume template that you can use as a starting point. This template is designed to be clean, structured, and optimized for applicant tracking systems (ATS).
+
+**Live ATS-Friendly Resume Template:**  
+[Click here to view and customize the resume template](https://www.overleaf.com/latex/templates/tagged/cv)  
+*Be sure to update it with your details, keep it to one page, and include links to your projects and code repositories.*
+
+*Tip: Before submitting your resume PR, double-check that you've removed any sensitive personal details (e.g., phone numbers) and that the content is concise and impactful.*
+
 ### Code of Conduct & Community Etiquette
 
 - **Be Respectful:**  
