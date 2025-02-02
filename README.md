@@ -211,22 +211,54 @@ We welcome every bit of help! Here’s how you can join in and make your first c
 7. **Submit a Pull Request:**  
    Head to GitHub, click “Compare & pull request,” and provide a detailed explanation of your changes. For more details, refer to [GitHub’s PR guide](https://docs.github.com/en/pull-requests).
 
-### Uploading Your Resume in Markdown
+## Uploading Your Resume in Markdown
 
-1. **Create Your Resume:**  
-   Write your resume in Markdown format. Use the template provided in `RESUME_TEMPLATE.md` as a starting point.
-2. **Organize Your Files:**  
-   Create a folder called `Contributors` (if it doesn’t already exist) and save your file as `your-github-username.md`.
-3. **Submit Your Contribution:**  
-   Follow the pull request process above to add your resume to the repository. This not only helps build your profile but also strengthens our community.
+We highly recommend using an ATS-friendly resume template to ensure your skills and experience shine through. Follow these steps to contribute your resume:
 
-4. We highly recommend using an ATS-friendly resume template to make sure your skills and experience shine through to potential employers. We've put together a live, customizable resume template that you can use as a starting point. This template is designed to be clean, structured, and optimized for applicant tracking systems (ATS).
+### Prepare Your Resume:
+- Write your resume in Markdown format using the guidelines below.
 
-**Live ATS-Friendly Resume Template:**  
-[Click here to view and customize the resume template](https://www.overleaf.com/latex/templates/tagged/cv)  
-*Be sure to update it with your details, keep it to one page, and include links to your projects and code repositories.*
+**Resume Order:**
+1. Experience
+2. Projects
+3. Technical Skills
+4. Education
+5. Achievements
 
-*Tip: Before submitting your resume PR, double-check that you've removed any sensitive personal details (e.g., phone numbers) and that the content is concise and impactful.*
+### Use the ATS-Friendly Resume Template:
+- We have a live, customizable ATS-friendly resume template that you can use.
+
+**Live Template:**  
+[Click here to view and customize the resume template](https://www.overleaf.com/latex/templates/ats-friendly-resume-template/xxxyz)
+
+> **Note:**  
+> Remember to update it with your details, keep it to one page, include project/code links, and remove any sensitive information (e.g., phone numbers).
+
+### Organize Your Files:
+- Create a folder named `Contributors` (if it doesn’t exist) and save your resume as a Markdown file named after your GitHub username (e.g., `yourusername.md`).
+
+### Submit Your Resume:
+- Follow the PR process (as described above) to commit your resume to the repository. Ensure your pull request is high quality and adheres to the guidelines.
+
+---
+
+## Additional Tips & Reminders
+
+### Quality PRs:
+- Your pull request will be evaluated based on its quality. A clear, well-documented, and organized PR will help you climb the leaderboard.
+
+### Leaderboard & Prizes:
+- **Top 10:** Win Bhopal DAO Exclusive Merch (Tees)
+- **Next 20:** Win Bhopal DAO Swags  
+*Criteria: Quality of your PR will determine your ranking.*
+
+### Merge Conflicts:
+- If you face merge conflicts, refer to [GitHub Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts) and [Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict).
+
+### Ask for Help:
+- If you have questions, raise an issue in this repository or join our Discord server for support.
+
+---
 
 ### Code of Conduct & Community Etiquette
 
