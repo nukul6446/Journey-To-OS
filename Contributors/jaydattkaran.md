@@ -22,11 +22,13 @@ Board of Secondary Education, MP
 #### Web based wallet | _React_ _NodeJS_ _Alchemy_ _Ethereum_
 
 > A sleek, user-friendly web based wallet that generates public and private key for the wallet.
+
 > Built using Nodejs and Reactjs, it uses Alchemy API to get the required data.
 
 #### Course Selling Application | _NodeJS_ _MongoDB_ _JWT(or Cookies)_ _EJS/React_
 
 > Enhanced security by implementing cookie-based user session authentication instead of JWT.
+
 > Led development of authentication routes for login, signup, and course purchases, boosting new
 user registrations by 25% within the first month. Utilized MongoDB with Mongoose for schema
 design and dotenv for environment variable management.
@@ -34,6 +36,7 @@ design and dotenv for environment variable management.
 #### Social Media Application | _React_ _Appwrite_ _TypeScript_ _Tailwindcss_
 
 > InstaSnap is likely a web application inspired by Instagram allowing users to share posts and interact with others in a social networking format.
+
 > The project use technologies like React for the frontend, Node.js/Express for the backend, and Appwrite for database and storage management.
 
 
@@ -43,8 +46,11 @@ design and dotenv for environment variable management.
 ## Technical Skills
 
 **Frontend Technologies:** React.js | Next.js | JavaScript, TypeScript | Tailwindcss
+
 **Backend Technologies:** Node.js | Express.js | RESTful APIs | WebSocket
+
 **Databases:** MongoDB | PostgreSQL
+
 **Techs & Tools:** Git | GitHub | AWS | Postman | Cloudflare | Figma
 
 ---
