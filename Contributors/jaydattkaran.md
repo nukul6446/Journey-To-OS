@@ -19,13 +19,13 @@ Board of Secondary Education, MP
 
 ## Projects
 
-#### Web based wallet | _React_ _NodeJS_ _Alchemy_ _Ethereum_
+#### Web based wallet || _React_ | _NodeJS_ | _Alchemy_ | _Ethereum_   [Github](https://github.com/jaydattkaran/web_based_wallet)
 
 > A sleek, user-friendly web based wallet that generates public and private key for the wallet.
 
 > Built using Nodejs and Reactjs, it uses Alchemy API to get the required data.
 
-#### Course Selling Application | _NodeJS_ _MongoDB_ _JWT(or Cookies)_ _EJS/React_
+#### Course Selling Application || _NodeJS_ | _MongoDB_ | _JWT(or Cookies)_ | _EJS/React_ [Github](https://github.com/jaydattkaran/course_seller)
 
 > Enhanced security by implementing cookie-based user session authentication instead of JWT.
 
@@ -33,7 +33,7 @@ Board of Secondary Education, MP
 user registrations by 25% within the first month. Utilized MongoDB with Mongoose for schema
 design and dotenv for environment variable management.
 
-#### Social Media Application | _React_ _Appwrite_ _TypeScript_ _Tailwindcss_
+#### Social Media Application || _React_ | _Appwrite_ | _TypeScript_ | _Tailwindcss_  [Github](https://github.com/jaydattkaran/instasnap_)
 
 > InstaSnap is likely a web application inspired by Instagram allowing users to share posts and interact with others in a social networking format.
 
@@ -57,5 +57,5 @@ design and dotenv for environment variable management.
 
 ## Experience
 
-#### Reimagine Hackathon (Sheryians Coding School)
+#### Reimagine Hackathon (Sheryians Coding School) [Round2](https://teen-titans-reimagine-round2.vercel.app/) | [Round1](https://teen-titans-reimagine-round1.vercel.app/)
 > Participated in a national-level web development hackathon, mastering JavaScript, GSAP, and Bootstrap while collaborating effectively with team members.
