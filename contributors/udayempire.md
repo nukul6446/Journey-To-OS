@@ -13,9 +13,10 @@ I'm a **self-taught programmer** specializing in **Full Stack Development**. Pas
 
 ## 💼 WORK EXPERIENCE
 ### **Devsthanam, Co-Founder** (Nov 2023 - Present)
-- Created **Landing Page** for the Mobile App and **Admin Panel** for data management.
-- Streamlined project workflows, enhancing overall efficiency.
-- Led a team in successfully delivering a **complex project** on time and within budget.
+- Created Landing Page for the Mobile App and Admin Panel for efficient data management, reducing data retrieval time by 40%.
+- Streamlined project workflows, enhancing overall efficiency by 30% and reducing development bottlenecks.
+- Led a team in successfully delivering a complex project on time and within budget, improving resource utilization by 50%.
+- [Live Link](https://devsthanam.in.net)
 
 ---
 
@@ -24,12 +25,13 @@ I'm a **self-taught programmer** specializing in **Full Stack Development**. Pas
 - A **community-building app** connecting users to tech events, hackathons, and meetups across India.
 - Allows users to **create and publish** their own events.
 - **Tech Stack:** React, Redux, Tailwind CSS, Vercel
+- [Live Link](https://eventsphere-lemon.vercel.app/) [Github Link](https://github.com/udayempire/Eventsphere)
 
 ### **QuickPay - Full Stack Development**
 - A **fake payment app** for experimenting with transactions.
 - Features include **adding money from banks, transferring funds**, and testing different functionalities.
 - **Tech Stack:** TurboRepo (Monorepo), Next.js, TypeScript, Express.js, CI pipeline with Docker
-
+-[Github Link](https://github.com/udayempire/Quickpay-2)
 ---
 
 ## 🎓 EDUCATION
